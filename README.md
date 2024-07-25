@@ -1,5 +1,5 @@
 December, 2023
-## 🐾Petgo Grooming Appointment Booking & Profile Logging
+## 🐾 Petgo Grooming Appointment Booking & Profile Logging
 For this project, the objective was to mimic an online platform that could use a Visual Basic Application to fill their data reporting needs. The grooming scheduling platform I chose was Petco, fulfilling the minimum 7-8 Excel VBA skills required to achieve an A for this assignment. This first sheet is the user-form by clients to book their dogs grooming appointment. 
 
 Data is organized into three sheets including Pet Profile Information, Owner Profile Information & an Appointment Information Database. Profile information can retrieved via the assigned ClientID number from the corresponding databases.
